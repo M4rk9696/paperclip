@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["web","Proxy module for `actix_web::web`."]],"struct":[["App","Wrapper for `actix_web::App`."]],"trait":[["Mountable","Indicates that this thingmabob has a path and a bunch of definitions and operations."],["OpenApiExt","Extension trait for actix-web applications."]]});

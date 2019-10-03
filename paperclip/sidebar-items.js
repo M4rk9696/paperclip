@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PaperClipError","Global error which encapsulates all related errors."]],"mod":[["actix","Plugin types, traits and macros for actix-web framework."],["v2","Utilities related to the OpenAPI v2 specification."]],"type":[["PaperClipResult","Generic result used throughout this library."]]});

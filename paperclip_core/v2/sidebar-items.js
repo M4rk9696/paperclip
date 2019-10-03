@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["models","Models used by OpenAPI v2."],["schema","Traits used for code and spec generation."]],"struct":[["FutureWrapper","Wrapper for wrapping over `impl Future` thingies (to avoid breakage)."],["ResponderWrapper","Wrapper for wrapping over `impl Responder` thingies (to avoid breakage)."]]});
